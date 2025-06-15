@@ -92,7 +92,6 @@ body {
 }
 
 .footer-content {
-    margin: 20px;
     height: 120px;
     width: 80vw;
     border-radius: 25px;
@@ -223,7 +222,6 @@ body {
     padding: 20px;
     color: var(--dark);
     font-weight: lighter;
-    margin: 20px 0;
 }
 
 .from {
